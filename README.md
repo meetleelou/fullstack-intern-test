@@ -13,6 +13,8 @@ Below is very basic "Business Requiremet" for a website you will build. If you h
 
 ## Guidelines
 
+To start fork this repo.
+
 Create a webapplication that displays a list of randomly generated names from https://uinames.com/ or similar api's.
 
 The API call must not be done client side directly to the 3rd party API.
@@ -27,6 +29,8 @@ You must display the following fields.
 
 Once the names are generated the user should be able to edit the email field and save it.
 You should also be able to enter a unique phone number for each user generated. It is not required to be enter, but it entered must be unique against all users displayed.
+
+Once complete please make a pull request from your fork back to this repo. 
 
 ## Notes
 
